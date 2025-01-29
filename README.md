@@ -173,7 +173,7 @@ Find some great docs [here][docs]
 <a name="code" />
 
 ## Code
-You can cerate both inline and full block code snippets. You can also define programming language you were using in your snippet. All by using backticks.
+You can create both inline and full block code snippets. You can also define programming language you were using in your snippet. All by using backticks.
 
 ```
     I created `.env` file at the root.
